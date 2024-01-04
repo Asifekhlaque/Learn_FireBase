@@ -35,3 +35,5 @@
 - Firebase integrates with Google Cloud's machine learning services, allowing developers to incorporate machine learning models into their applications.
 # Firebase Features
 ![image](https://github.com/Asifekhlaque/Learn_FireBase/assets/132199879/4022b335-7095-49e6-92d3-7f80e5acf3e4)
+1 Realtime Database:
+- NoSQL database for real-time data synchronization across clients.
