@@ -58,6 +58,7 @@
 ## Machine Learning:
 - Integration with Google Cloud's machine learning services.
 # Firebase Pricing:
+![image](https://github.com/Asifekhlaque/Learn_FireBase/assets/132199879/38242406-f5c8-4b8d-93d5-7cc0ec1fa03e)
 ## Spark Plan (Free):
 - Limited usage with generous free tier for most Firebase services.
 - Suitable for small projects and development.
