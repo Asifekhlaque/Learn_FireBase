@@ -35,5 +35,25 @@
 - Firebase integrates with Google Cloud's machine learning services, allowing developers to incorporate machine learning models into their applications.
 # Firebase Features
 ![image](https://github.com/Asifekhlaque/Learn_FireBase/assets/132199879/4022b335-7095-49e6-92d3-7f80e5acf3e4)
-1 Realtime Database:
+## Realtime Database:
 - NoSQL database for real-time data synchronization across clients.
+## Authentication:
+- Robust user authentication supporting email/password, social logins, and more.
+## Cloud Functions:
+- Serverless computing for running backend code in response to events.
+## Hosting:
+- Fast and secure hosting with a global content delivery network (CDN).
+## Cloud Firestore:
+- Scalable NoSQL document database with real-time data synchronization.
+## Cloud Storage:
+- Storage solution for user-generated content like images and videos.
+## Analytics:
+- Insights into user behavior and app performance.
+## Cloud Messaging:
+- Push notifications to engage and retain users.
+## Authentication & Security Rules:
+- Fine-grained control over data access with customizable rules.
+## Dynamic Links:
+- Create deep links for seamless user experiences across platforms.
+## Machine Learning:
+- Integration with Google Cloud's machine learning services.
