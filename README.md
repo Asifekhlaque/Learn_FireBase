@@ -173,3 +173,34 @@
 ### Event Tracking:
 - Define and track custom events to gather specific data points.
 - Measure user interactions and conversions within your app.
+
+# Firebase Pricing Features:
+![image](https://github.com/Asifekhlaque/Learn_FireBase/assets/132199879/86f6c075-d5b8-47f7-a3fa-203c11b28691)
+## Spark Plan (Free):
+- Generous free tier for most Firebase services.
+- Ideal for small projects and development.
+## Blaze Plan (Pay as you go):
+- Pay only for what you use with no upfront costs.
+- Suitable for production apps with variable usage.
+## Realtime Database Pricing:
+- Charges based on data stored and data downloaded.
+- Authentication Pricing:
+## Free for up to 10k verifications per month.
+- Small fee per verification beyond the free limit.
+## Cloud Functions Pricing:
+- Billed based on the number of invocations and resources consumed.
+## Hosting Pricing:
+- Charges for the amount of data transferred and stored.
+- Cloud Firestore Pricing:
+- Based on document reads, writes, and deletes.
+## Cloud Storage Pricing:
+- Charged for storage and data transfer.
+## Analytics Pricing:
+- Free and unlimited event reporting.
+- Some premium features may have additional costs.
+## Cloud Messaging Pricing:
+- Basic usage is free.
+- Additional features may have associated charges.
+## Machine Learning Pricing:
+- Integrates with Google Cloud ML services.
+- Costs may vary based on ML service usage.
