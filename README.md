@@ -203,5 +203,5 @@
 - Additional features may have associated charges.
 ## Machine Learning Pricing:
 - Integrates with Google Cloud ML services.
-- Costs may vary based on ML service usage.
+- Costs may vary based on ML service usage.  
 [Blaze plan calculator](https://firebase.google.com/pricing#blaze-calculator)
