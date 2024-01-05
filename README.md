@@ -83,3 +83,50 @@
 - Free for basic usage; charges for additional features.
 ## Machine Learning Pricing:
 - Integrates with Google Cloud ML services; costs may vary.
+# Firebase Build Features
+![image](https://github.com/Asifekhlaque/Learn_FireBase/assets/132199879/da7ea461-e739-4a69-9220-ac506c6ba652)
+# Realtime Database:
+- NoSQL database for real-time data synchronization across devices.
+- Perfect for applications requiring instant updates and collaboration.
+## Authentication:
+- Simplifies user authentication with easy integration of email/password, social logins, and more.
+- Securely manage user identity in your app.
+## Cloud Functions:
+- Enables serverless computing, allowing you to run backend code in response to events.
+- Execute custom logic without managing servers.
+## Hosting:
+- Provides fast and secure web hosting with a global content delivery network (CDN).
+- Easily deploy and scale web applications.
+## Cloud Firestore:
+- Scalable NoSQL document database for flexible and efficient data storage.
+- Supports real-time updates for dynamic content.
+## Cloud Storage:
+- Allows storage and retrieval of user-generated content like images and videos.
+- Integrates seamlessly with Firebase services.
+## Analytics:
+- Gain insights into user behavior and app performance.
+- Track user engagement, retention, and other key metrics.
+## Cloud Messaging:
+- Firebase Cloud Messaging (FCM) for sending push notifications.
+- Engage users and keep them informed about updates.
+## Authentication & Security Rules:
+- Define fine-grained access control to data with authentication and security rules.
+- Ensure data security and privacy.
+## Dynamic Links:
+- Create deep links that survive the app installation process.
+- Provide a seamless and personalized user experience.
+## Performance Monitoring:
+- Monitor app performance and identify bottlenecks.
+- Diagnose and fix issues affecting user experience.
+## Remote Config:
+- Dynamically adjust app behavior without publishing updates.
+- A/B test features and personalize content for different user segments.
+## Test Lab:
+- Test apps on real devices hosted in Google's data centers.
+- Identify issues and ensure compatibility across various devices.
+## Crashlytics:
+- Real-time crash reporting to detect and diagnose app crashes.
+- Prioritize and fix issues impacting user experience.
+## ML Kit:
+- Incorporate machine learning features into your app without extensive ML expertise.
+- Supports features like text recognition, image labeling, and more.
